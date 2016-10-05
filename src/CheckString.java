@@ -34,6 +34,7 @@ public class CheckString {
 		
 		System.out.println(equalIsNot("isnotnotisnot"));
 		System.out.println(equalIsNot("isisnotnotisnot"));
+		System.out.println(equalIsNot("isisnotnotisnot"));
 		
 	}
 	
